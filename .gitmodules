@@ -1,0 +1,3 @@
+[submodule "examples/PYNQ_RADIO"]
+	path = examples/PYNQ_RADIO
+	url = https://github.com/level2fast/PYNQ_RADIO.git
